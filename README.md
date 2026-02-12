@@ -1,0 +1,2 @@
+# nonebot_cloudnet_plugin
+一个用于将nonebot接入cloudnet_server已便捷管理MC群组服的插件
